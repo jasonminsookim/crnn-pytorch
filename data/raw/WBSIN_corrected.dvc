@@ -1,0 +1,5 @@
+outs:
+- md5: 35b88b6a3494580e1b56d23be05ae21e.dir
+  size: 1684841561
+  nfiles: 10000
+  path: WBSIN_corrected

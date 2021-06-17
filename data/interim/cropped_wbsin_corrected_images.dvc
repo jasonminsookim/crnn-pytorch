@@ -1,0 +1,5 @@
+outs:
+- md5: ef5513c0f627eb5a381f649306a749ae.dir
+  size: 81936422
+  nfiles: 5000
+  path: cropped_wbsin_corrected_images

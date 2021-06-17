@@ -1,0 +1,4 @@
+[core]
+    remote = analytics_warehouse
+['remote "analytics_warehouse"']
+    url = webhdfs://10.112.205.35:50070/user/hive/warehouse/dvcstorage

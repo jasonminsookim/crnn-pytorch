@@ -121,10 +121,8 @@ venv.bak/
 
 /checkpoints/
 
-/data/raw/
-
-/data/interim/
-
-/data/processed/
-
 *.pt
+
+*.jpg
+
+*.xml
