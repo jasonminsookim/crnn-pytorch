@@ -117,3 +117,14 @@ venv.bak/
 # ssl key files
 */key/ssl.crt
 */key/ssl.key
+
+
+/checkpoints/
+
+/data/raw/
+
+/data/interim/
+
+/data/processed/
+
+*.pt
